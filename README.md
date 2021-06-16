@@ -1,4 +1,4 @@
-# Super-Crate-Box-Clone-2016-
+# Super-Crate-Box-Clone-2016
 Clone of the game super crate box that I created back in 2016
 
 How to play the game:
